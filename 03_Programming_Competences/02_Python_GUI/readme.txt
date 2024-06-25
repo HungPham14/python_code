@@ -1,0 +1,1 @@
+Graphical User Interface scripted using tkinter library version 1.0 including Textbox written by Python implemented Object Oriented Programming saved in PATH: C:\Users\Hung\Study\Documents\03_Programming_Competences\00_Python_OOP
