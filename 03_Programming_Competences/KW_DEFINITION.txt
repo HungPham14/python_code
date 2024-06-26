@@ -1,0 +1,7 @@
+In Python, methods and functions have similar purposes but differ in important ways.
+* FUNCTIONS are independent blocks of code that can be called from anywhere, while 
+* METHODS are tied to objects or classes and need an object or class instance to be invoked.
+* VARIABLES: A variable is a name that refers to a value. Variables can hold any type of object. 
+* ATTRIBUTES: An attribute is a value associated with an object. Attributes can be accessed using the dot notation.
+* PROPERTIES: A property is a way to define a method as an attribute. Properties are created using the @property decorator.
+* STATIC METHODS are methods within a class that have no access to anything else in the class (no self keyword or cls keyword). They cannot change or look at any object attributes or call other methods within the class. They can be thought of as a special kind of function that sits inside of the class.
